@@ -1,0 +1,15 @@
+{
+  "schema": "poos-publication-witness/1",
+  "workspace_id": "poos-vnext",
+  "publication_id": "pub-5731ae3068154a28b945c4c2e22b08d5",
+  "source_commit_sha": "f510718af9b4dd66aa4528875a37d4c1fc39db52",
+  "source_tree_sha": "4f900fa6c4dce3a4f6fca0b9cd49fa2214a87810",
+  "prior_publication_id": null,
+  "prior_source_commit_sha": null,
+  "verification_receipt_id": "vr-ac46855c55fb4d00b6831cb63356d10b",
+  "retention_receipt_id": "rsa-cd7cc22b1fde485c96c36e5c18f7fcd7",
+  "retention_digest": "sha256:cfd5dd621ff0737a385f52672a6570aafdea438a2db8ca56174b69d3dfc1fd39",
+  "review_attestation_ids": [
+    "sra-b321a7019dea443ea6c3d1344835d0ee"
+  ]
+}
