@@ -1,0 +1,15 @@
+{
+  "schema": "poos-genesis-review-policy-anchor/1",
+  "workspace_id": "poos-vnext",
+  "policy_id": "poos-source-sensitive-review/1",
+  "candidate_policy_path": "config/work-unit-d/source_review_policy.json",
+  "candidate_policy_sha256": "sha256:974eda3b9a4096f1f02700e6a8f512f4091136e4cb9b7c921f9d9b2eacdb04af",
+  "policy_schema": "poos-source-review-policy/1",
+  "review_type": "source-sensitive",
+  "review_mode": "fresh-independent-review-context",
+  "required_result": "PASS",
+  "attestation_schema": "poos-review-attestation/1",
+  "same_context_self_check_allowed": false,
+  "second_github_principal_required": false,
+  "source_selection_authority": false
+}
